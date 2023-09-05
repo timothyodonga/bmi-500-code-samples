@@ -2,7 +2,7 @@
 # coding: utf-8
 """
     Author: Timothy Odonga
-    This is a script that was used to analyze the frequencies of words, bigrams, trigrams in a document. 
+    This is a script that was used to analyze the frequencies of ngram statistics i.e. bigrams, trigrams in a text document i.e. .txt file. 
     This code was part of a previous class undertaken on Natural Language Processisng. 
 
     The code used for counts using FreqDist(), word_tokenize() was adopted from Chapter 4 of Natural Language Processing
