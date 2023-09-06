@@ -9,6 +9,8 @@
     with Python by Steven Bird, Ewan Klein and suited to the program.
 
 """
+# Code Review Comments - Really great job on the level of specificity in your comments, Tim. (Something I often overlook myself)
+# I would add more information regarding the purpose of this code. Without deep looking into the code, it may look like redundant lines towards the end when creating the multiple ngrams stats.
 
 import sys
 import nltk, re, pprint
